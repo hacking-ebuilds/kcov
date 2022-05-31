@@ -1,9 +1,9 @@
-# Copyright 1999-2019 Gentoo Authors
+# Copyright 1999-2022 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
 
-inherit cmake-utils
+inherit cmake
 
 DESCRIPTION="Kcov is a code coverage tester for compiled languages, Python and Bash"
 HOMEPAGE="https://github.com/SimonKagstrom/kcov"
